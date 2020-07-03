@@ -1,5 +1,6 @@
 #!/bin/bash
 git config --global user.email Tatjana.Solovjova@rtu.lv
 git add .
-git commit -m "20200703_16_25"
+git commit -m "20200703_16_35"
+git pull
 git push origin master

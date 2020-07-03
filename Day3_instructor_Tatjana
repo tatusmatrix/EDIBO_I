@@ -1,0 +1,28 @@
+Ctrl + Alt + T
+Ctrl + Shift + T
+Ctrl + l
+
+echo $0
+
+character(s) + Tab
+
+man command_name (quit with q)
+
+command_name -key1 -key2 argument(s)
+command_name -key(s) argument(s)
+
+day2:
+pwd, ls -cla, cd, mkdir
+cat, tail, wc
+date, history
+
+day3:
+nano
+ls -l - drwxrwxrwx
+addresses - absolute (/ - root directory), relative (., .., ~)
+hexdump -C (hex code or ASCII symbol)
+xxd -b (binary code)
+1 byte = 8 bits (0/1 - 2 states) => unique codes 2^8 = 256
+whereis
+PATH=$PATH:~
+chmod 740
