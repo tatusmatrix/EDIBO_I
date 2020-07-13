@@ -18,4 +18,12 @@ List(s)
 Link(s)
 Table(s)
 Image(s)
-Graphic(s) - SVG
+Graphic(s) + SVG
+----------------
++ include
++ inline CSS, internal CSS, external CSS
+
+Questions:
+"Backbones" of Internet
+kill user process VS user process (from ssh)
+scp user1@server1:~/file1 user2@server2:~/file2
