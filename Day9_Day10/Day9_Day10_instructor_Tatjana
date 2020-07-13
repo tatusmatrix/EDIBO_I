@@ -1,4 +1,4 @@
-0. Work with GitHub only trough commandline
+0. Work with GitHub only through command line
 
 Big Task:
 create static (local) web-page with JS with data visualisation 
@@ -6,7 +6,16 @@ create static (local) web-page with JS with data visualisation
 and plot these data (allow select number of curves, for example,
 number of currencies)
 
-1. 14:10 - 15:00 Web simple concept (who(or what); how; where is
-connected and could be accessed)
+1. 14:10 - 15:00 Web simple concept (who (or what), how, where, ...
+- is connected and could be found and could be accessed)
 
-2. 
+2. 15:00 - 15:45 Exploring local network
+
+3. 16:45 - 18:30 Simple HTML and CSS document with:
+Title
+Heading(s)
+List(s)
+Link(s)
+Table(s)
+Image(s)
+Graphic(s) - SVG
