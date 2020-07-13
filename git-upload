@@ -1,6 +1,8 @@
 #!/bin/bash
+if [ $# == 1 ]
+then
 git config --global user.email Tatjana.Solovjova@rtu.lv
 git add .
-git commit -m "20200703_16_35"
-git pull
+git commit -m $1
 git push origin master
+fi
