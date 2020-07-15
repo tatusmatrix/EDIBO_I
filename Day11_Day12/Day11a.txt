@@ -1,0 +1,116 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  dotnet run
+    5  node -v
+    6  npm -v
+    7  cd dev
+    8  dotnet new angulqar MyFirst Angular
+    9  dotnet new angulqar -o MyFirstAngular
+   10  dotnet new angular -o MyFirstAngular
+   11  node -v
+   12  cd
+   13  vim .bashrc 
+   14  export NVM_DIR="$HOME/.nvm" && (  git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR";  cd "$NVM_DIR";  git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`; ) && \. "$NVM_DIR/nvm.sh"
+   15  nvm -v
+   16  nvm i 12
+   17  node -v
+   18  npm -v
+   19  firefox
+   20  bg
+   21  whoami
+   22  date
+   23  cal
+   24  cal 2020
+   25  cal 1
+   26  ls
+   27  dotnet
+   28  dotnet --version
+   29  dotnet --info
+   30  PS1= "$ "
+   31  PS1="$ "
+   32  ls
+   33  dotnet new console -o MyConsoleApp
+   34  ls
+   35  ls MyConsoleApp/
+   36  tree MyConsoleApp/
+   37  du MyConsoleApp/
+   38  du -h MyConsoleApp/
+   39  pwd
+   40  cd MyConsoleApp/
+   41  ls
+   42  ls -l
+   43  pwd
+   44  dotnet build
+   45  du -h MyConsoleApp/
+   46  du -h 
+   47  dotnet run
+   48  ls
+   49  vim Program.cs 
+   50  dotnet run
+   51  ls bin/Debug/netcoreapp3.1/MyConsoleApp/
+   52  ls bin/Debug/netcoreapp3.1/MyConsoleApp
+   53  ls -l  bin/Debug/netcoreapp3.1/MyConsoleApp
+   54  dotnet  bin/Debug/netcoreapp3.1/MyConsoleApp	
+   55  dotnet  bin/Debug/netcoreapp3.1/MyConsoleApp.dll
+   56  pwd
+   57  cd ..
+   58  ls
+   59  mkdir dev; cd dev
+   60  pwd
+   61  dotnet new console -o MySecondCosoleApp
+   62  ls
+   63  pw
+   64  cd MySecondCosoleApp/
+   65  dotnet run
+   66  dotnet build
+   67  dotnet run
+   68  ls
+   69  vim Program.cs 
+   70  dotnet run
+   71  vim Program.cs 
+   72  dotnet run
+   73  vim Program.cs 
+   74  dotnet run
+   75  vim Program.cs 
+   76  code .
+   77  cd ..
+   78  pwd
+   79  ls
+   80  dotnet new webapp -o MyWebApp
+   81  cd MyWebApp/
+   82  pwd
+   83  ls
+   84  du -h
+   85  dotnet build
+   86  du -h
+   87  code .
+   88  fg
+   89  PS1="$ "
+   90  du -h
+   91  du -hs
+   92  dotnet run
+   93  dotnet watch run
+   94  npm
+   95  npm i -g live-server
+   96  live-server 
+   97  code .
+   98  npm -v
+   99  ls
+  100  mkdir e
+  101  cd e/
+  102  live-server 
+  103  live-server
+  104  npm -v
+  105  mkdir abc
+  106  cd abc/
+  107  code
+  108  npm -v
+  109  npm i -g @angular/cli
+  110  code .
+  111  ng new
+  112  cd hello/
+  113  code . &
+  114  ng serve
+  115  history
+  116  history > Day11a.txt
