@@ -8,8 +8,6 @@ import { NavigationComponent } from './navigation/navigation.component';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-import{CurrencyModule} from './currency/currency.module'
-
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +18,6 @@ import{CurrencyModule} from './currency/currency.module'
     BrowserAnimationsModule,
     MatSliderModule,
     MatSidenavModule,
-    CurrencyModule
   ],
   providers: [],
   bootstrap: [AppComponent]

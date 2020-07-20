@@ -18,6 +18,10 @@ echo "export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm" >> .bash_profile
 . ~/.bash_profile
 
+echo "export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm" >> .bashrc
+. ~/.bashrc
+
 npm i -g @angular/cli
 mv EDIBO/AngularTest/HelloWorld EDIBO/AngularTest/HelloWorldLegacy
 cd EDIBO/AngularTest
