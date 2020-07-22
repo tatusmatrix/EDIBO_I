@@ -1,4 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
+import { AppRoutingModule } from './app-routing.module';
 import { NgModule } from '@angular/core';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatSidenavModule } from '@angular/material/sidenav';
@@ -23,6 +24,7 @@ import { WeatherModule } from './weather/weather.module';
     MatSidenavModule,
     CurrencyModule,
     WeatherModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

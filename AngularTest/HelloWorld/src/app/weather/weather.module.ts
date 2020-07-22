@@ -8,7 +8,7 @@ import { HttpClientModule} from '@angular/common/http';
   declarations: [WeatherComponent],
   imports: [
     CommonModule,
-    HttpClientModule,
+    HttpClientModule
   ],
   exports:[
     WeatherComponent,
